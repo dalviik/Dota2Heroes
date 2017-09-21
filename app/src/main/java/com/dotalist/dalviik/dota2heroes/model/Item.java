@@ -1,8 +1,5 @@
 package com.dotalist.dalviik.dota2heroes.model;
 
-/**
- * Created by dxr on 20-09-17.
- */
 
 public class Item {
     private String name;
