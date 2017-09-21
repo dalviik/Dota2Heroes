@@ -2,9 +2,6 @@ package com.dotalist.dalviik.dota2heroes.model;
 
 import java.util.ArrayList;
 
-/**
- * Created by dxr on 20-09-17.
- */
 
 public class ItemRespuesta {
 
