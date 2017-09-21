@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#800004</color>
+    <color name="colorPrimaryDark">#500405</color>
+    <color name="colorAccent">#9f9fb9</color>
+
+    <color name="colorHeroeItem">#fff</color>
+
+    <color name="colorBotonHeroe">#511b18</color>
+    <color name="colorBotonHeroePresionado">#ff2321</color>
+
+    <color name="colorBotonItem">#172281</color>
+    <color name="colorBotonItemPresionado">#145f6b</color>
+</resources>
+
+

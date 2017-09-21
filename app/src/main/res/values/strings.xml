@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dota 2 Heroes</string>
+    <string name="item_heroe_description">La descripcion del Heroe se añadira luego, con la mejora de la API :)</string>
+    <string name="item_description">La descripcion del Item se añadira luego, con la mejora de la API :)</string>
+
+</resources>
