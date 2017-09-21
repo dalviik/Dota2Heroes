@@ -14,9 +14,6 @@ import com.dotalist.dalviik.dota2heroes.model.Item;
 
 import java.util.ArrayList;
 
-/**
- * Created by dxr on 21-09-17.
- */
 
 public class ListaItemsAdapter extends RecyclerView.Adapter<ListaItemsAdapter.ViewHolder> {
 
